@@ -1,0 +1,18 @@
+C:\Users\Esvin\AppData\Local\Temporary Projects\TallerOrga\bin\Debug\TallerOrga.exe
+C:\Users\Esvin\AppData\Local\Temporary Projects\TallerOrga\bin\Debug\TallerOrga.pdb
+C:\Users\Esvin\AppData\Local\Temporary Projects\TallerOrga\bin\Debug\TallerOrga.xml
+C:\Users\Esvin\AppData\Local\Temporary Projects\TallerOrga\obj\x86\Debug\TallerOrga.Form1.resources
+C:\Users\Esvin\AppData\Local\Temporary Projects\TallerOrga\obj\x86\Debug\TallerOrga.Resources.resources
+C:\Users\Esvin\AppData\Local\Temporary Projects\TallerOrga\obj\x86\Debug\TallerOrga.vbproj.GenerateResource.Cache
+C:\Users\Esvin\AppData\Local\Temporary Projects\TallerOrga\obj\x86\Debug\TallerOrga.exe
+C:\Users\Esvin\AppData\Local\Temporary Projects\TallerOrga\obj\x86\Debug\TallerOrga.xml
+C:\Users\Esvin\AppData\Local\Temporary Projects\TallerOrga\obj\x86\Debug\TallerOrga.pdb
+C:\Users\Esvin\Documents\Visual Studio 2010\Projects\TallerOrga\TallerOrga\obj\x86\Debug\TallerOrga.exe
+C:\Users\Esvin\Documents\Visual Studio 2010\Projects\TallerOrga\TallerOrga\obj\x86\Debug\TallerOrga.xml
+C:\Users\Esvin\Documents\Visual Studio 2010\Projects\TallerOrga\TallerOrga\obj\x86\Debug\TallerOrga.pdb
+C:\Users\Esvin\Documents\Visual Studio 2010\Projects\TallerOrga\TallerOrga\bin\Debug\TallerOrga.exe
+C:\Users\Esvin\Documents\Visual Studio 2010\Projects\TallerOrga\TallerOrga\bin\Debug\TallerOrga.pdb
+C:\Users\Esvin\Documents\Visual Studio 2010\Projects\TallerOrga\TallerOrga\bin\Debug\TallerOrga.xml
+C:\Users\Esvin\Documents\Visual Studio 2010\Projects\TallerOrga\TallerOrga\obj\x86\Debug\TallerOrga.Form1.resources
+C:\Users\Esvin\Documents\Visual Studio 2010\Projects\TallerOrga\TallerOrga\obj\x86\Debug\TallerOrga.Resources.resources
+C:\Users\Esvin\Documents\Visual Studio 2010\Projects\TallerOrga\TallerOrga\obj\x86\Debug\TallerOrga.vbproj.GenerateResource.Cache
